@@ -31,11 +31,11 @@
       "manipulators": [
         {
           "from": {
-            "key_code": "[",
+            "key_code": "open_bracket",
             "modifiers": { "mandatory": [ "control" ] }
           },
           "to": [{
-              "key_code": "[",
+              "key_code": "open_bracket,
               "modifiers": [ "command" ]
           }],
           "conditions": [
@@ -55,11 +55,11 @@
       "manipulators": [
         {
           "from": {
-            "key_code": "]",
+            "key_code": "close_bracket",
             "modifiers": { "mandatory": [ "control" ] }
           },
           "to": [{
-            "key_code": "]",
+            "key_code": "close_bracket",
             "modifiers": [ "command" ]
           }],
           "conditions": [
