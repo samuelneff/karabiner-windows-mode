@@ -35,7 +35,7 @@
             "modifiers": { "mandatory": [ "control" ] }
           },
           "to": [{
-              "key_code": "open_bracket,
+              "key_code": "open_bracket",
               "modifiers": [ "command" ]
           }],
           "conditions": [
