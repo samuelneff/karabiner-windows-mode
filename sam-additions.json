@@ -25,6 +25,54 @@
           "type": "basic"
         }
       ]
+    },
+    {
+      "description": "Ctrl-[ [Chrome Outdent]",
+      "manipulators": [
+        {
+          "from": {
+            "key_code": "[",
+            "modifiers": { "mandatory": [ "control" ] }
+          },
+          "to": [{
+              "key_code": "[",
+              "modifiers": [ "command" ]
+          }],
+          "conditions": [
+            {
+              "type": "frontmost_application_if",
+              "bundle_identifiers": [
+                "^com\\.google\\.Chrome$"
+              ]
+            }
+          ],
+          "type": "basic"
+        }
+      ]
+    },
+    {
+      "description": "Ctrl-] [Chrome Indent]",
+      "manipulators": [
+        {
+          "from": {
+            "key_code": "]",
+            "modifiers": { "mandatory": [ "control" ] }
+          },
+          "to": [{
+            "key_code": "]",
+            "modifiers": [ "command" ]
+          }],
+          "conditions": [
+            {
+              "type": "frontmost_application_if",
+              "bundle_identifiers": [
+                "^com\\.google\\.Chrome$"
+              ]
+            }
+          ],
+          "type": "basic"
+        }
+      ]
     }
   ]
 }
