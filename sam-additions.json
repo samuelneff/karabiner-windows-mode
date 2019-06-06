@@ -73,6 +73,22 @@
           "type": "basic"
         }
       ]
+    },
+    {
+      "description": "L (Win) [Lock Screen Better]",
+      "manipulators": [
+        {
+          "from": {
+            "key_code": "l",
+            "modifiers": { "mandatory": ["command"], "optional": ["any"] }
+          },
+          "to": [{
+              "key_code": "Q",
+              "modifiers": ["control", "command"]
+          }],
+          "type": "basic"
+        }
+      ]
     }
-  ]
+]
 }
