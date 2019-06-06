@@ -79,16 +79,15 @@
       "manipulators": [
         {
           "from": {
-            "key_code": "L",
-            "modifiers": { "mandatory": ["command"] }
+            "key_code": "l",
+            "modifiers": { "mandatory": ["command"], "optional": ["any"] }
           },
           "to": [{
-              "key_code": "Q",
-              "modifiers": ["control", "command"]
+              "shell_command": "/usr/bin/pmset displaysleepnow"
           }],
           "type": "basic"
         }
       ]
     }
-]
+  ]
 }
