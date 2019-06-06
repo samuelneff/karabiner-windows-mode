@@ -7,7 +7,7 @@
       "manipulators": [
         {
           "from": {
-            "key_code": "f12",
+            "key_code": "F12",
             "modifiers": { "optional": ["any"]}
           },
           "to": [{
@@ -79,8 +79,8 @@
       "manipulators": [
         {
           "from": {
-            "key_code": "l",
-            "modifiers": { "mandatory": ["command"], "optional": ["any"] }
+            "key_code": "L",
+            "modifiers": { "mandatory": ["command"] }
           },
           "to": [{
               "key_code": "Q",
