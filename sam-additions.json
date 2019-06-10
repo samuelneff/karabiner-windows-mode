@@ -496,7 +496,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$"
+                "^XXXXXXcom\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -525,7 +525,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$"
+                "^XXXXXXXXcom\\.microsoft\\.VSCode$"
               ]
             }
           ],
