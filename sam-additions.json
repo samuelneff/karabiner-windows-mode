@@ -107,7 +107,7 @@
               "bundle_identifiers": [
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -136,7 +136,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -162,7 +162,7 @@
               "bundle_identifiers": [
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -191,7 +191,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -220,7 +220,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -249,7 +249,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -278,7 +278,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -307,7 +307,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -336,7 +336,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -365,7 +365,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -394,7 +394,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -423,7 +423,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -452,7 +452,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -481,7 +481,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -510,7 +510,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -571,7 +571,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -600,7 +600,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -646,7 +646,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -675,7 +675,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -704,7 +704,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -758,7 +758,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -787,7 +787,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -878,7 +878,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -907,7 +907,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -936,7 +936,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -965,7 +965,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -994,7 +994,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -1024,7 +1024,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -1053,7 +1053,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -1082,7 +1082,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -1108,7 +1108,7 @@
               "bundle_identifiers": [
                 "^com\\.apple\\.Terminal$",
                 "^com\\.googlecode\\.iterm2$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -1137,7 +1137,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -1166,7 +1166,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -1195,7 +1195,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -1224,7 +1224,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -1253,7 +1253,7 @@
               "bundle_identifiers": [
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -1285,7 +1285,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -1314,7 +1314,7 @@
                 "^co\\.zeit\\.hyper$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
@@ -1340,7 +1340,7 @@
               "bundle_identifiers": [
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.microsoft\\.rdc\\.macos$",
-                "^com\\.microsoft\\.VSCode$
+                "^com\\.microsoft\\.VSCode$"
               ]
             }
           ],
